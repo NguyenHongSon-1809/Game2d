@@ -1,0 +1,732 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1743271302212324, "dur":68936, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1743271302281274, "dur":270, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1743271302281632, "dur":311, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1743271302282149, "dur":98, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":0, "ts":1743271302282256, "dur":126, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1743271302282390, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/level0" }}
+,{ "pid":12345, "tid":0, "ts":1743271302282468, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/level1" }}
+,{ "pid":12345, "tid":0, "ts":1743271302282532, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/resources.assets" }}
+,{ "pid":12345, "tid":0, "ts":1743271302282599, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1743271302282762, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":0, "ts":1743271302282838, "dur":112, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":0, "ts":1743271302282957, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1743271302283024, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":0, "ts":1743271302283157, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":0, "ts":1743271302283234, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1743271302283313, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1743271302283393, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":0, "ts":1743271302283924, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302283979, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302284125, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302284270, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302284366, "dur":307, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302284681, "dur":75, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302284819, "dur":95, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302284960, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302285137, "dur":129, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302285292, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302285422, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302285488, "dur":177, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302285673, "dur":87, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302285768, "dur":126, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302285901, "dur":91, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302286003, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302286065, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302286231, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302286305, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.Cinemachine.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302286371, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.Collections.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302286435, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302286492, "dur":106, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302286606, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302286678, "dur":75, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302286805, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302286884, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302286964, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.Rendering.LightTransport.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302287044, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302287132, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302287215, "dur":93, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.RenderPipelines.Core.Runtime.Shared.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302287323, "dur":105, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302287437, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.RenderPipelines.GPUDriven.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302287511, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302287595, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.RenderPipelines.Universal.2D.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302287663, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.RenderPipelines.Universal.Config.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302287793, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302287869, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.Splines.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302287944, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302288070, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302288146, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302288221, "dur":97, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302288490, "dur":86, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302288583, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302288644, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302288721, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302288780, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302288859, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302288920, "dur":94, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302289022, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302289103, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302289186, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302289268, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302289328, "dur":94, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302289431, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302289511, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302289589, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302289650, "dur":94, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302289754, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302289837, "dur":95, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302289982, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302290064, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302290136, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302290230, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302290293, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302290358, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302290488, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302290553, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302290705, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302290768, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302290915, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302290991, "dur":92, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302291242, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302291306, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302291452, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302291596, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302291822, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302292051, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302292281, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302292376, "dur":96, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302292479, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302292646, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302292792, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302292885, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302293108, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Plugins/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302293245, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1743271302293321, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1743271302293446, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D.exe" }}
+,{ "pid":12345, "tid":0, "ts":1743271302293521, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302293588, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302293655, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1743271302293712, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1743271302293852, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1743271302293915, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1743271302293995, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1743271302294063, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1743271302294139, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1743271302294206, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1743271302294336, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1743271302294484, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1743271302294564, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":0, "ts":1743271302294639, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":0, "ts":1743271302294703, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":0, "ts":1743271302294777, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":0, "ts":1743271302294852, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302294926, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles GameMoonKnight/D3D12/D3D12Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743271302282025, "dur":12965, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1743271302294993, "dur":38738257, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1743271341033456, "dur":4545, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1743271302282908, "dur":12098, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1743271302295942, "dur":1831, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"D:/6000.0.34f1/Editor/Data/il2cpp/build/deploy" }}
+,{ "pid":12345, "tid":1, "ts":1743271302297774, "dur":14555, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"D:/6000.0.34f1/Editor/Data/il2cpp/libil2cpp" }}
+,{ "pid":12345, "tid":1, "ts":1743271302312330, "dur":150, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"D:/6000.0.34f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport" }}
+,{ "pid":12345, "tid":1, "ts":1743271302312481, "dur":2456, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"D:/6000.0.34f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono" }}
+,{ "pid":12345, "tid":1, "ts":1743271302314938, "dur":122, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"D:/6000.0.34f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/Data/Resources" }}
+,{ "pid":12345, "tid":1, "ts":1743271302315061, "dur":472, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"D:/6000.0.34f1/Editor/Data/Tools/BuildPipeline" }}
+,{ "pid":12345, "tid":1, "ts":1743271302315533, "dur":325, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"Library/PlayerDataCache/Win642/Data" }}
+,{ "pid":12345, "tid":1, "ts":1743271302295011, "dur":20917, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1743271302315947, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteResponseFile Library/Bee/artifacts/rsp/11336898087364677551.rsp" }}
+,{ "pid":12345, "tid":1, "ts":1743271302316106, "dur":2671, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"UnityLinker D:/DOANGAME/DoAn_Game2D/Library/Bee/artifacts/unitylinker_dwek.traceevents" }}
+,{ "pid":12345, "tid":1, "ts":1743271302318778, "dur":1394, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1743271302336273, "dur":92645, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743271302428971, "dur":667425, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Mono.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743271303096447, "dur":676907, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743271303773410, "dur":101068, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\netstandard.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743271303874535, "dur":363467, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743271304238061, "dur":361353, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743271304599471, "dur":421887, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743271305021412, "dur":477317, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743271305498784, "dur":468984, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743271305967835, "dur":470824, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743271306438724, "dur":202067, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Net.Http.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743271306640847, "dur":224476, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Numerics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743271306865375, "dur":63540, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743271306928971, "dur":479788, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743271307408828, "dur":171068, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Transactions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743271307579949, "dur":710271, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743271308290235, "dur":39818, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743271308330138, "dur":2016, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743271308332257, "dur":27879, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743271308360179, "dur":32307, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743271308392712, "dur":6756, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743271308399553, "dur":136575, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743271308536161, "dur":227857, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\DOANGAME\\DoAn_Game2D\\Library\\PackageCache\\com.unity.burst\\.Runtime\\bcl.exe" }}
+,{ "pid":12345, "tid":1, "ts":1743271302336218, "dur":6427803, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"GenerateNativePluginsForAssemblies Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":1, "ts":1743271308765190, "dur":32267584, "ph":"X", "name": "GenerateNativePluginsForAssemblies",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":2, "ts":1743271302283097, "dur":11956, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271302295057, "dur":486, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271302295543, "dur":353, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271302295897, "dur":456, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271302296353, "dur":312, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271302296666, "dur":297, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271302296963, "dur":327, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271302297290, "dur":323, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271302297613, "dur":322, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271302297936, "dur":316, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271302298253, "dur":345, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271302298599, "dur":361, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271302298960, "dur":362, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271302299323, "dur":319, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271302299642, "dur":714, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271302300357, "dur":367, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271302300725, "dur":15212, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271302316143, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271302316194, "dur":183, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles GameMoonKnight/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1743271302316379, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1743271302316494, "dur":71, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles GameMoonKnight/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1743271302316569, "dur":168, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1743271302316780, "dur":149, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles GameMoonKnight/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1743271302316933, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1743271302316989, "dur":112, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271302317102, "dur":90, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles GameMoonKnight/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1743271302317194, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1743271302317312, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271302317686, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271302317755, "dur":52, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1743271302317869, "dur":58, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":2, "ts":1743271302317977, "dur":179, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1743271302318161, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271302318279, "dur":220, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271302318500, "dur":95, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/resources.assets" }}
+,{ "pid":12345, "tid":2, "ts":1743271302318599, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271302318741, "dur":17485, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271302336265, "dur":194991, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271302336227, "dur":195031, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271302531274, "dur":150, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271302533122, "dur":142, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271302531501, "dur":1841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271302533382, "dur":62320, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271302533346, "dur":62359, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271302595755, "dur":146, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271302595907, "dur":1683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271302597630, "dur":167426, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271302597595, "dur":167463, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271302765097, "dur":1681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271302766816, "dur":77377, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271302766782, "dur":77414, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271302844211, "dur":192, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271302845972, "dur":145, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271302844410, "dur":1861, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271302846318, "dur":393106, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271302846275, "dur":393152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271303239464, "dur":4544, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271303244048, "dur":111711, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271303244013, "dur":111748, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271303355800, "dur":1723, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271303357563, "dur":161535, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271303357528, "dur":161572, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271303519136, "dur":1776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271303521028, "dur":178111, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271303520926, "dur":178228, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271303699228, "dur":1821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271303701089, "dur":74836, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271303701054, "dur":74874, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271303777831, "dur":163, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271303775966, "dur":2091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271303778107, "dur":65373, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271303778061, "dur":65421, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271303843499, "dur":146, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271303845272, "dur":159, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271303843654, "dur":1821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271303845539, "dur":207084, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271303845496, "dur":207129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271304052662, "dur":1975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271304054675, "dur":131301, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271304054641, "dur":131337, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271304185993, "dur":145, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271304187719, "dur":136, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271304186146, "dur":1769, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271304187964, "dur":107659, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271304187919, "dur":107706, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271304295641, "dur":148, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271304297658, "dur":161, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271304295797, "dur":2085, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271304297929, "dur":221486, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271304297886, "dur":221531, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271304519454, "dur":1839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271304521335, "dur":97772, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271304521301, "dur":97809, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271304619345, "dur":150, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271304621076, "dur":134, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271304619502, "dur":1795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271304621340, "dur":103353, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271304621302, "dur":103393, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271304724710, "dur":150, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271304724867, "dur":1957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271304726865, "dur":109948, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271304726829, "dur":109997, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271304836841, "dur":147, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271304836996, "dur":1768, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271304838806, "dur":83028, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271304838769, "dur":83067, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271304921874, "dur":4259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271304926178, "dur":62130, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Core.Runtime.Shared.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271304926138, "dur":62173, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.RenderPipelines.Core.Runtime.Shared.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271304989953, "dur":149, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271304988347, "dur":1817, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.RenderPipelines.Core.Runtime.Shared.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271304990211, "dur":74989, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271304990168, "dur":75035, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271305067507, "dur":164, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271305065239, "dur":2541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271305067840, "dur":94830, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271305067794, "dur":94878, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271305162688, "dur":149, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271305162845, "dur":1781, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271305164667, "dur":145253, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271305164631, "dur":145292, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271305309939, "dur":149, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271305310093, "dur":1904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271305312065, "dur":71032, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271305312002, "dur":71097, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271305384861, "dur":157, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271305383136, "dur":1931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271305385143, "dur":214412, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271305385097, "dur":214461, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271305599573, "dur":152, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271305599733, "dur":1871, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271305601645, "dur":128526, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271305601609, "dur":128564, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271305731838, "dur":140, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271305730211, "dur":1843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271305732092, "dur":170542, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271305732058, "dur":170579, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271305902654, "dur":151, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271305904466, "dur":229, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271305902810, "dur":1929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271305904812, "dur":172706, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271305904760, "dur":172760, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271306079423, "dur":154, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271306077556, "dur":2095, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271306079690, "dur":222682, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271306079656, "dur":222719, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271306302390, "dur":142, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271306304122, "dur":136, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271306302540, "dur":1778, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271306304364, "dur":345442, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271306304322, "dur":345486, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271306649824, "dur":159, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271306649988, "dur":2871, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271306652898, "dur":282417, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.GPUDriven.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271306652864, "dur":282454, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.RenderPipelines.GPUDriven.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271306935335, "dur":151, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271306937435, "dur":153, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271306935492, "dur":2162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.RenderPipelines.GPUDriven.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271306937703, "dur":74245, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271306937658, "dur":74292, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271307012021, "dur":1702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271307013755, "dur":3686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271307017515, "dur":244756, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Burst.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271307017446, "dur":244828, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271307262288, "dur":140, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271307264281, "dur":131, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271307262434, "dur":2055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271307266382, "dur":140, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271307264536, "dur":2047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271307266632, "dur":210557, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Collections.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271307266599, "dur":210604, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.Collections.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271307477241, "dur":2120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.Collections.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271307479415, "dur":184917, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271307479366, "dur":184968, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271307664349, "dur":142, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271307666706, "dur":160, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271307664498, "dur":2432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271307666976, "dur":249997, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271307666934, "dur":250042, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271307916991, "dur":73, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271307917092, "dur":2409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271307919536, "dur":1650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271307921222, "dur":1681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271307922936, "dur":1881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271307924846, "dur":256930, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Splines.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271307924821, "dur":256957, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.Splines.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271308181793, "dur":129, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271308184081, "dur":224, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271308181927, "dur":2438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.Splines.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271308184397, "dur":2071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271308186505, "dur":56264, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271308186473, "dur":56301, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271308244494, "dur":127, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271308242827, "dur":1871, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271308244718, "dur":72, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271308250406, "dur":155, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743271308244795, "dur":5827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271308250684, "dur":64034, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271308250645, "dur":64075, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271308314790, "dur":1651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271308316705, "dur":82762, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271308316654, "dur":82815, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271308399506, "dur":1904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743271308401415, "dur":32631690, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271302283082, "dur":11940, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271302295046, "dur":533, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271302295580, "dur":344, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271302295925, "dur":419, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271302296345, "dur":327, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271302296673, "dur":316, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271302296990, "dur":352, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271302297342, "dur":345, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271302297687, "dur":309, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271302297996, "dur":325, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271302298322, "dur":366, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271302298689, "dur":335, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271302299025, "dur":329, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271302299355, "dur":349, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271302299704, "dur":700, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271302300405, "dur":267, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271302300673, "dur":15266, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271302315947, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1743271302316309, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1743271302316396, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1743271302316547, "dur":83, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles GameMoonKnight/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1743271302316632, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1743271302316734, "dur":67, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles GameMoonKnight/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1743271302316805, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1743271302316913, "dur":81, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles GameMoonKnight/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1743271302316996, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1743271302317124, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1743271302317408, "dur":73, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles GameMoonKnight/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271302317482, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/D3D12/D3D12Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271302317581, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271302317773, "dur":210, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles GameMoonKnight/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271302317988, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271302318099, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271302318153, "dur":180, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":3, "ts":1743271302318337, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271302318445, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271302318536, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271302318591, "dur":164, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1743271302318757, "dur":17463, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271302336264, "dur":312313, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Universal.2D.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271302336222, "dur":312358, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.RenderPipelines.Universal.2D.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271302648595, "dur":143, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271302650522, "dur":133, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271302648744, "dur":1975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.RenderPipelines.Universal.2D.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271302650768, "dur":59143, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271302650736, "dur":59177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271302709951, "dur":1768, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271302711757, "dur":83545, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271302711725, "dur":83580, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271302795320, "dur":143, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271302795471, "dur":1622, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271302797211, "dur":194791, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271302797108, "dur":194897, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271302992042, "dur":2273, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271302994371, "dur":241585, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271302994319, "dur":241640, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271303237663, "dur":159, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271303235993, "dur":1892, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271303237932, "dur":80090, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271303237889, "dur":80135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271303318041, "dur":166, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271303319856, "dur":145, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271303318216, "dur":1900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271303320157, "dur":86465, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271303320120, "dur":86504, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271303406676, "dur":144, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271303408421, "dur":66, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271303406825, "dur":1708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271303408621, "dur":350533, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271303408574, "dur":350583, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271303761353, "dur":159, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271303759198, "dur":2377, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271303761634, "dur":69050, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271303761579, "dur":69108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271303830724, "dur":1746, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271303832512, "dur":173511, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271303832475, "dur":173551, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271304006075, "dur":146, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271304007995, "dur":177, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271304006229, "dur":2046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271304008315, "dur":66414, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271304008279, "dur":66452, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271304074746, "dur":149, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271304074901, "dur":1694, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271304076703, "dur":80926, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271304076608, "dur":81024, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271304157649, "dur":158, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271304159387, "dur":145, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271304157813, "dur":1799, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271304159656, "dur":84443, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271304159616, "dur":84485, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271304244162, "dur":159, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271304244329, "dur":1739, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271304246109, "dur":64280, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271304246072, "dur":64320, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271304310503, "dur":148, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271304310659, "dur":1877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271304312577, "dur":146358, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271304312541, "dur":146396, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271304458974, "dur":1743, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271304460758, "dur":148833, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271304460721, "dur":148883, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271304609645, "dur":1906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271304611592, "dur":114035, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271304611555, "dur":114075, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271304725667, "dur":1696, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271304727398, "dur":73497, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271304727366, "dur":73532, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271304800915, "dur":230, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271304803291, "dur":158, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271304801151, "dur":2362, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271304803552, "dur":145656, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271304803518, "dur":145692, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271304949248, "dur":1784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271304951074, "dur":2048, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271304951037, "dur":2098, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271304953174, "dur":1658, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271304954872, "dur":67026, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271304954836, "dur":67064, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305021937, "dur":1821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305023800, "dur":68307, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305023763, "dur":68346, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305092145, "dur":1728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305093915, "dur":69340, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305093878, "dur":69379, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305163269, "dur":104, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271305163380, "dur":2562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305165979, "dur":199085, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305165947, "dur":199119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305365122, "dur":64, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271305365191, "dur":1934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305367212, "dur":2225, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Universal.Config.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305367130, "dur":2310, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.RenderPipelines.Universal.Config.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305369476, "dur":1730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.RenderPipelines.Universal.Config.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305371254, "dur":57225, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305371210, "dur":57272, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305428521, "dur":1775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305430338, "dur":98285, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305430300, "dur":98326, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305528662, "dur":1715, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305530406, "dur":172157, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305530381, "dur":172184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305702580, "dur":215, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271305704349, "dur":514, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271305702801, "dur":2083, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305704923, "dur":66773, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305704888, "dur":66810, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305771714, "dur":161, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271305771881, "dur":1701, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305773631, "dur":60093, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305773587, "dur":60140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305833795, "dur":1789, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305835619, "dur":78566, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305835589, "dur":78598, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305916004, "dur":150, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271305914229, "dur":1988, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305916272, "dur":75638, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305916221, "dur":75691, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305991956, "dur":1728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305993726, "dur":110733, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271305993689, "dur":110773, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271306104477, "dur":158, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271306106435, "dur":164, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271306104643, "dur":2065, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271306106750, "dur":382539, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271306106713, "dur":382579, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271306489307, "dur":148, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271306492733, "dur":169, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271306489463, "dur":3501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271306493013, "dur":62385, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271306492970, "dur":62431, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271306555437, "dur":1688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271306557166, "dur":200570, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271306557130, "dur":200608, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271306757812, "dur":2357, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271306760209, "dur":144387, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271306760173, "dur":144425, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271306906416, "dur":138, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271306904636, "dur":1993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271306906667, "dur":70781, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271306906634, "dur":70817, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271306979160, "dur":159, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271306977484, "dur":1914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271306979419, "dur":72, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271306981251, "dur":154, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271306979496, "dur":1985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271306981521, "dur":63979, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271306981486, "dur":64017, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271307047300, "dur":123, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271307045538, "dur":1947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271307047533, "dur":91959, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271307047501, "dur":91993, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271307139508, "dur":154, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271307141849, "dur":165, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743271307139670, "dur":2405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271307142123, "dur":1733, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271307143885, "dur":193586, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271307143860, "dur":193613, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271307337508, "dur":1813, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271307339358, "dur":466014, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271307339326, "dur":466048, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271307805410, "dur":1927, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271307807431, "dur":3024, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271307810464, "dur":481817, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271307810460, "dur":481835, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271308292353, "dur":3499, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271308295888, "dur":4853, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271308300794, "dur":59362, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271308300747, "dur":59411, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271308360192, "dur":1633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271308361892, "dur":2038, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271308363962, "dur":172193, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271308363936, "dur":172221, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271308536197, "dur":1533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743271308537735, "dur":32495272, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271302283197, "dur":11879, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271302295076, "dur":501, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271302295577, "dur":355, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271302296496, "dur":577, "ph":"X", "name": "File",  "args": { "detail":"D:\\6000.0.34f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271302295932, "dur":1142, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271302297074, "dur":334, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271302297525, "dur":1067, "ph":"X", "name": "File",  "args": { "detail":"D:\\6000.0.34f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Reactive.Debugger.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271302297409, "dur":1404, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271302298885, "dur":1796, "ph":"X", "name": "File",  "args": { "detail":"D:\\6000.0.34f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Facades\\System.IO.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271302298814, "dur":2083, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271302300897, "dur":15036, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271302315947, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":4, "ts":1743271302316001, "dur":190, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271302316192, "dur":56, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":4, "ts":1743271302316251, "dur":2361, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1743271302318671, "dur":77, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1743271302318749, "dur":17475, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271302336262, "dur":134927, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271302336226, "dur":134965, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271302472139, "dur":144, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271302472892, "dur":3999, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271302476924, "dur":72589, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271302476895, "dur":72621, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271302549551, "dur":2038, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271302551633, "dur":69239, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271302551594, "dur":69280, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271302620890, "dur":140, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271302622611, "dur":134, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271302621036, "dur":1784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271302622857, "dur":260271, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271302622824, "dur":260306, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271302883168, "dur":1819, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271302885042, "dur":129362, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271302884992, "dur":129414, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271303016006, "dur":145, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271303014443, "dur":1770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271303016263, "dur":212399, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271303016217, "dur":212447, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271303228680, "dur":160, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271303228846, "dur":2136, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271303231038, "dur":241378, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271303230986, "dur":241432, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271303472458, "dur":2427, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271303475063, "dur":107165, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271303474890, "dur":107340, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271303583771, "dur":113, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271303582266, "dur":1679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271303583992, "dur":72134, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271303583951, "dur":72178, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271303657835, "dur":143, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271303656166, "dur":1890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271303658097, "dur":72412, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271303658061, "dur":72450, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271303730526, "dur":149, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271303732258, "dur":149, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271303730683, "dur":1898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271303732630, "dur":287076, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271303732585, "dur":287124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271304019745, "dur":5096, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271304024884, "dur":88478, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271304024846, "dur":88519, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271304114988, "dur":108, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271304113402, "dur":1754, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271304115215, "dur":146544, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271304115172, "dur":146589, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271304261776, "dur":240, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271304265643, "dur":165, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271304262022, "dur":3852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271304265934, "dur":476886, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Rendering.LightTransport.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271304265879, "dur":476944, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.Rendering.LightTransport.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271304742840, "dur":142, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271304742988, "dur":1905, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.Rendering.LightTransport.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271304745000, "dur":119921, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271304744897, "dur":120026, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271304864940, "dur":148, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271304866707, "dur":140, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271304865096, "dur":1859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271304866994, "dur":329732, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271304866959, "dur":329769, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271305198588, "dur":132, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271305196763, "dur":2004, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271305198817, "dur":70515, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271305198782, "dur":70553, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271305269351, "dur":144, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271305272170, "dur":158, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271305269501, "dur":2874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271305272446, "dur":106320, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271305272395, "dur":106373, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271305380542, "dur":160, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271305378804, "dur":1964, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271305380833, "dur":174196, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271305380788, "dur":174243, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271305555046, "dur":146, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271305555199, "dur":1890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271305557128, "dur":59737, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271305557094, "dur":59773, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271305616883, "dur":146, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271305617116, "dur":1707, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271305618861, "dur":213595, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271305618828, "dur":213630, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271305832473, "dur":149, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271305832636, "dur":1989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271305834691, "dur":60250, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271305834630, "dur":60313, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271305894960, "dur":148, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271305895116, "dur":1772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271305896929, "dur":218742, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271305896893, "dur":218790, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271306115718, "dur":2503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271306118265, "dur":154858, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271306118226, "dur":154899, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271306273163, "dur":1734, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271306275011, "dur":499762, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271306274912, "dur":499863, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271306774790, "dur":152, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271306774949, "dur":4128, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271306779115, "dur":196766, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271306779081, "dur":196803, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271306975921, "dur":1832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271306977786, "dur":138086, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271306977756, "dur":138119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271307115914, "dur":1811, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271307117763, "dur":3082, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271307120878, "dur":1896, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271307122814, "dur":341884, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271307122779, "dur":341921, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271307464716, "dur":149, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271307466979, "dur":191, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271307464873, "dur":2350, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271307467269, "dur":434726, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Cinemachine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271307467228, "dur":434769, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.Cinemachine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271307902035, "dur":2141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.Cinemachine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271307904210, "dur":1909, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271307906160, "dur":276144, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271307906123, "dur":276182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271308182352, "dur":101, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271308182458, "dur":4274, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271308186761, "dur":1526, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271308188328, "dur":141789, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271308188291, "dur":141828, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271308330134, "dur":239, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271308332113, "dur":409, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271308330378, "dur":2196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271308332620, "dur":59841, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271308332579, "dur":59885, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271308394235, "dur":163, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743271308392501, "dur":1961, "ph":"X", "name": "CopyFiles",  "args": { "detail":"GameMoonKnight/DoAn_Game2D_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743271308394467, "dur":32638650, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1743271341046146, "dur":4081, "ph":"X", "name": "ProfilerWriteOutput" }
+,
